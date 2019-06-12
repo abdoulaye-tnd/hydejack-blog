@@ -10,22 +10,22 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
-permalink:             Permalink
+home:                  首页
+pages:                 页面
+posts:                 文章
+about:                 关于
+related_posts:         相关文章
+other_projects:        其他项目Pagination
+comments:              评论
+jump_to:               转跳到
+navigation:            导航页
+social:                社交账号
+links:                 链接
+pagination:            分页
+newer:                 更新的
+older:                 更旧的
+back:                  返回
+permalink:             永久链接
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 present:               present
