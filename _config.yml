@@ -24,7 +24,7 @@ title:                 h00kran 的小站
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  一线光漏了进来，划开了这个小博客站的大门。
+  一线光漏了进来，划开了这个小站的大门。
   这里没有什么特别的东西，当然，可能偶尔有一点咯。
 
 # A shorter description for the sidebar.
@@ -48,11 +48,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
+  - title:             博客
+    url:               /blog/
+  - title:             文档
+    url:               /docs/
+  - title:             关于
     url:               /about/
 
 # Add links to the footer.
