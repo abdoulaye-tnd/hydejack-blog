@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:'
+  prepend: 'mailto:hoganlee_dev@outlook.com'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -98,13 +98,13 @@ steam:
 dropbox:
   name: Dropbox
   icon: icon-dropbox
-ondrive:
+onedrive:
   name: OneDrive
   icon: icon-ondrive
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/"
+  prepend: "https://github.com/h0gan1ee"
 npm:
   name: npm
   icon: icon-npm
