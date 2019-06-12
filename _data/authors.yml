@@ -23,9 +23,9 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     # twitter:         jekyllrb
-    github:          h0gan1ee/hydejack-blog
+    github:          https://github.com/h0gan1ee/hydejack-blog
     # download:        <url>
-    email:           hoganlee_dev@outlook.com
+    email:           mailto:hoganlee_dev@outlook.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
