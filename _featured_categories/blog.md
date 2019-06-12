@@ -10,5 +10,5 @@ slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  这里是博客空间，存放各种博客。
+  欢迎来到博客空间。
 ---
