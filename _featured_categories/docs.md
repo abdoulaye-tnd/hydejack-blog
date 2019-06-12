@@ -10,5 +10,5 @@ slug: docs
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  这里是文档空间，存放着各种文档。
+  欢迎访问 h00kran 的文档库。
 ---
