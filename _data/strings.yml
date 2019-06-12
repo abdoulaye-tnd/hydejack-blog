@@ -13,10 +13,10 @@
 home:                  首页
 pages:                 页面
 posts:                 文章
-about:                 关于
+about:                 关于此站
 related_posts:         相关文章
-other_projects:        其他项目Pagination
-comments:              评论
+other_projects:        其他项目
+comments:              众说纷纭
 jump_to:               转跳到
 navigation:            导航页
 social:                社交账号
@@ -26,32 +26,33 @@ newer:                 更新的
 older:                 更旧的
 back:                  返回
 permalink:             永久链接
-permalink_icon:        icon-link
-templates:             Templates (for web app)
+permalink_icon:        图标链接
+templates:             模板 (for web app)
 present:               present
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               快步加载中…
+redirecting:           小步转跳中…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  继续阅读 <!--post_title-->
 
 cookies_banner:
   text:                >
     This site uses cookies. [Cookies Policy](/cookies-policy/).
-  okay:                Okay
+  okay:                好的
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: 网页不见了'
   message:             |
+    对不起，我们不能解析此 URL ，或许它指向了一个不存在的网页。
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    <!--home_link--> 尝试重新查找网页。
+  home_link:           回到首页
 
 error:
-  title:               Error
+  title:               错误
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    对不起, 加载 <!--link--> 时出了偏差。
 
 # Separators
 # ---------------------------------------------------------------------------------------
@@ -66,13 +67,13 @@ from_to_separator:     '–'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%d %b %Y'
-  related_post:        '%d %b %Y'
+  post:                '%Y-%m-%d'
+  related_post:        '%Y-%m-%d'
   list_group_by:       '%Y'
-  list_entry:          '%d %b'
+  list_entry:          '%m 月 %d 日'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%b %Y'
+  resume:              '%Y 年 %m 月'
 
 
 # PRO Version
