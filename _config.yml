@@ -248,6 +248,7 @@ exclude:
   - .sass-cache
 include:
   - LICENSE.md
+  - _redirects
 
 
 # Plugins
