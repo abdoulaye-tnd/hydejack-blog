@@ -34,7 +34,7 @@ loading:               快步加载中…
 redirecting:           小步转跳中…
 
 continue_reading:      >
-  下一篇文章：<!--post_title-->
+  继续阅读 <!--post_title-->
 
 cookies_banner:
   text:                >
