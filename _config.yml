@@ -95,7 +95,7 @@ font: Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading: Noto Sans, Roboto Slab, Helvetica, Arial, sans-serif
+font_heading: Roboto Slab, Helvetica, Arial, sans-serif
 
 defaults:
     # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
@@ -142,7 +142,7 @@ hydejack:
     project_addons: [about, newsletter, other]
 
     # If you do not use Google Fonts, set to `true`.
-    no_google_fonts: true
+    no_google_fonts: false
 
     # Set to `true` if you don't want to show an icon indicating external links
     no_mark_external: true
