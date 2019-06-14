@@ -77,7 +77,7 @@ paginate_path: /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image: /assets/img/bg-3.jpg
+accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-3.jpg
 accent_color: "#F18D00"
 
 # This is used for the `theme-color` meta tag,
