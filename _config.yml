@@ -78,12 +78,12 @@ paginate_path: /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image: /assets/img/bg-3.jpg
-accent_color: #0057FF
+accent_color: "#0057FF"
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color: #0057FF
+theme_color: "#0057FF"
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -142,7 +142,7 @@ hydejack:
     project_addons: [about, newsletter, other]
 
     # If you do not use Google Fonts, set to `true`.
-    no_google_fonts: false
+    no_google_fonts: true
 
     # Set to `true` if you don't want to show an icon indicating external links
     no_mark_external: true
