@@ -95,7 +95,7 @@ font: Roboto, Noto Sans, Helvetica, Arial, 等线, 微软雅黑, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading: Playfair Display, Noto Serif, 华文中宋, 宋体, Helvetica, Arial, 等线, 微软雅黑, serif
+font_heading: Playfair Display, Noto Serif, 华文中宋, 宋体, Helvetica, Arial, 等线, 微软雅黑, sans-serif
 
 defaults:
     # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
