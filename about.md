@@ -4,13 +4,13 @@
 layout: about
 
 # The title of the page.
-title: About
+title: About 关于
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, 测试
+  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 测试
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -26,12 +26,12 @@ The "Best Jekyll Theme by a Mile".
 Hydejack's cover page on a variety of screens.
 {:.figure}
 
-**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.
+**Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print. 测试
 
-> Your presence on the web — A [blog], a [portfolio], and a [resume].
+> Your presence on the web — A [blog], a [portfolio], and a [resume]. 测试
 {:.lead}
 
-There are two versions of **Hydejack**: The base version is free, while features that are specific to *professionals* are a payed upgrade.
+There are two versions of **Hydejack 测试**: The base version is free, while features that are specific to *professionals 测试* are a payed upgrade.
 
 |                        | Free           | PRO      |
 |:-----------------------|:--------------:|:--------:|
