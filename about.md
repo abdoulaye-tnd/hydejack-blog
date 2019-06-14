@@ -87,7 +87,7 @@ The Hydejack blog, as seen by the text browser `w3m`.
 
 ```js
 document.getElementsByTagName("hy-push-state")[0].addEventListener("hy-push-state-load", function() {
-  // <your init code>
+  // <your init code> 测试
 });
 ```
 
