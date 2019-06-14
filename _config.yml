@@ -37,7 +37,7 @@ keywords: [个人, 综合, 技术, 艺术, 杂谈]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/icons/icon.png
+logo: https://gitee.com/h00kran/blog-assets/raw/master/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
