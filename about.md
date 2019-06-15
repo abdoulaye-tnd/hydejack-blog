@@ -15,7 +15,7 @@ description: >
 hide_description: true
 
 # TODO
-image: https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png
+image: /assets/img/h00kran,ml.png
 ---
 
 # 目录
@@ -25,8 +25,7 @@ image: https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png
 
 # 简介
 
-![](https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png)
-{:.lead}
+![](https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png){:.lead}
 
 欢迎您访问这个网站！
 {:.lead}
