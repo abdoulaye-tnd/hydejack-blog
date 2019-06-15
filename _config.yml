@@ -87,15 +87,15 @@ theme_color: "#FDE3D0"
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts: Noto+Serif+SC:700|Playfair+Display:700|Noto+Sans+SC:400,400i,700,700i|Roboto:400,400i,700,700i
+google_fonts: Noto+Sans+SC:400,700|Noto+Serif+SC:700|Playfair+Display:700&display=swap&subset=chinese-simplified
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font: Roboto, Noto Sans SC, 等线, 微软雅黑, Helvetica, Arial, Noto Color Emoji, sans-serif
+font: Noto Sans SC, 等线, 微软雅黑, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading: Playfair Display, Noto Serif SC, 华文中宋, Helvetica, Arial, 等线, 微软雅黑, Noto Color Emoji, sans-serif
+font_heading: Playfair Display, Noto Serif SC, 华文中宋, Helvetica, Arial, 等线, 微软雅黑, sans-serif
 
 defaults:
     # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
