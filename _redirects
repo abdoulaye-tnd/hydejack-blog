@@ -2,3 +2,5 @@
 
 # Redirect default Netlify subdomain to primary domain
 https://h00kran.netlify.com/* https://h00kran.ml/:splat 301!
+
+https://h00kran.ml/assets/* https://gitee.com/h00kran/blog-assets/raw/master/:splat 301!
