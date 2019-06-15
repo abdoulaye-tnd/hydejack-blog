@@ -15,7 +15,7 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/h00kran,ml.png
+image: https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png
 ---
 
 {:toc}
