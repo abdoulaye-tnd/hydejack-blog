@@ -20,12 +20,13 @@ image: https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png
 
 # 目录
 
-*
+* toc
 {:toc}
 
 # 简介
 
-![Full-width image](https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png)
+![](https://gitee.com/h00kran/blog-assets/raw/master/img/h00kran,ml.png)
+{:.lead}
 
 欢迎您访问这个网站！
 {:.lead}
