@@ -1,3 +1,8 @@
+---
+layout: post
+title: Gardening With Mines 隐私策略
+---
+
 该隐私策略**适用于 Gardening With Mines 在 Microsoft Store 上发布的版本**（以下简称“该游戏”）。
 
 该游戏**完全不使用互联网服务**，因此我们**不可能且不会**收集用户的任何个人信息。
