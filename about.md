@@ -32,7 +32,7 @@ image: /assets/img/h00kran,ml.png
 
 [h00kran.ml](h00kran.ml) 是 Hogan Lee 的个人网站，主要用于**随笔创造**、**作品发布**、**文档托管**等用途。
 
-站长学艺不精，对于搭建网站可以说几乎是“零基础”，希望您可以包容网站中的不足之处，或者向通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Feedback@h00kran.ml]%20请简要描述问题) 站长吐槽。
+站长学艺不精，对于搭建网站可以说几乎是“零基础”，希望您可以包容网站中的不足之处，或者通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Feedback@h00kran.ml]%20请简要描述问题) 向站长吐槽。
 
 *该页面将持续更新。*
 
