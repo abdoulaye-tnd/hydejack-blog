@@ -11,4 +11,6 @@ slug: docs
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   欢迎访问 h00kran 的文档库。
+
+menu: true
 ---
