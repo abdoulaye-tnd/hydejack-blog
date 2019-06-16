@@ -16,14 +16,14 @@
 }*/
 
 #search-container {
-    width: 600pt;
-    height: 60pt;
+    display: flex;
+    flex-direction: column;
 }
 
 #search-input {
     width: fit-content;
-    margin: 10pt auto;
-    text-align: center;
+    margin: 10pt;
+    align-self: center;
 }
 
 body {
