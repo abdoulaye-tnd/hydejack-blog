@@ -242,7 +242,6 @@ exclude:
     - _js
     - _plugins
     - .sass-cache
-    - example
 include:
     - LICENSE.md
     - _redirects
