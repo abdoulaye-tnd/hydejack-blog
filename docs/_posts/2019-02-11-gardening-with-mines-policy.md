@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gardening With Mines 隐私策略
-categories: [docs]
 ---
 
 该隐私策略**适用于 Gardening With Mines 在 Microsoft Store 上发布的版本**（以下简称“该游戏”）。
