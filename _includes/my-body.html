@@ -2,20 +2,17 @@
 Use this add elements to the <body/> of the document.
 -->{% endcomment %}
 
-<script type="text/javascript">
+<script>
     (function() {
-        document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));
-        var bdcs = document.createElement("script");
-        bdcs.type = "text/javascript";
-        bdcs.async = true;
-        bdcs.src =
-            "http://znsv.baidu.com/customer_search/api/js?sid=3276413194663589900" +
-            "&plate_url=" +
-            encodeURIComponent(window.location.href) +
-            "&t=" +
-            Math.ceil(new Date() / 3600000);
+        var bp = document.createElement("script");
+        var curProtocol = window.location.protocol.split(":")[0];
+        if (curProtocol === "https") {
+            bp.src = "https://zz.bdstatic.com/linksubmit/push.js";
+        } else {
+            bp.src = "http://push.zhanzhang.baidu.com/push.js";
+        }
         var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(bdcs, s);
+        s.parentNode.insertBefore(bp, s);
     })();
 </script>
 
