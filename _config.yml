@@ -19,7 +19,7 @@ baseurl: ""
 lang: zh-cn
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: h00kran 的小站
+title: h00kran's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -77,8 +77,8 @@ paginate_path: /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-3.jpg
-accent_color: "#F18D00"
+accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-4.jpg
+accent_color: "#0080E0"
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
