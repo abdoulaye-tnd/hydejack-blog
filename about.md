@@ -9,7 +9,7 @@ title: 关于此站
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  关于 h00kran.ml 的站点信息。
+  关于 foresite.top 的站点信息。
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -30,23 +30,23 @@ image: /assets/img/h00kran,ml.png
 欢迎您访问这个网站！
 {:.lead}
 
-[h00kran.ml](h00kran.ml) 是 Hogan Lee 的个人网站，主要用于**随笔创造**、**作品发布**、**文档托管**等用途。
+[foresite.top](https://foresite.top) 是 Hogan Lee 的个人网站，主要用于**随笔创造**、**作品发布**、**文档托管**等用途。
 
-站长学艺不精，对于搭建网站可以说几乎是“零基础”，希望您可以包容网站中的不足之处，或者通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Feedback@h00kran.ml]%20请简要描述问题) 向站长吐槽。
+站长学艺不精，对于搭建网站可以说几乎是“零基础”，希望您可以包容网站中的不足之处，或者通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Feedback@foresite.top]%20请简要描述问题) 向站长吐槽。
 
 *该页面将持续更新。*
 
 # 合作
 
-如果您希望在该网站上发布文章并拥有自己的作者信息，我将很乐意为您提供作品发布平台，并感谢您对本站的认可。您可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Cooperation@h00kran.ml]%20请填写主题) 与站长进一步联系和交流。
+如果您希望在该网站上发布文章并拥有自己的作者信息，我将很乐意为您提供作品发布平台，并感谢您对本站的认可。您可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Cooperation@foresite.top]%20请填写主题) 与站长进一步联系和交流。
 
 # 版权
 
 ## 联系方式
 
-[点击此处发送特定格式的电子邮件到 hoganlee_dev@outlook.com](mailto:hoganlee_dev@outlook.com?subject=[Copyright@h00kran.ml]%20请填写主题)
+[点击此处发送特定格式的电子邮件到 hoganlee_dev@outlook.com](mailto:hoganlee_dev@outlook.com?subject=[Copyright@foresite.top]%20请填写主题)
 
-*（若上述链接不生效，请手动发送主题格式为“[Copyright@h00kran.ml] 您想要填写的内容”的电子邮件到上述电子邮箱，谢谢）*
+*（若上述链接不生效，请手动发送主题格式为“[Copyright@foresite.top] 您想要填写的内容”的电子邮件到上述电子邮箱，谢谢）*
 
 ## 对于站长发布的作品
 
@@ -70,6 +70,6 @@ image: /assets/img/h00kran,ml.png
 
 **该网站受《国际法》、《中华人民共和国宪法》、中华人民共和国境内适用的法律和法规约束。**站长将严格遵循上述宪法、法律和法规进行网络活动，并坚决与违法、违宪行为作斗争。
 
-该网站不会主动收集用户的隐私信息，但是与该网站的相关服务提供商和用户的网络接入服务提供商可能会收集用户的网站浏览信息。站长仅可通过 CDN 加速提供商 [Cloudflare](https://cloudflare.com) 和静态网站托管提供商 [Netlify](https://netlify.com) 获取用户**匿名且笼统的浏览信息**以优化网站服务和监测网站的运行状况，站长**绝对不会将任何用户的信息用于商业用途**。若您对此有顾虑，可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Support@h00kran.ml]%20请填写主题) 向站长咨询进一步的信息。
+该网站不会主动收集用户的隐私信息，但是与该网站的相关服务提供商和用户的网络接入服务提供商可能会收集用户的网站浏览信息。站长仅可通过 CDN 加速提供商 [Cloudflare](https://cloudflare.com) 和静态网站托管提供商 [Netlify](https://netlify.com) 获取用户**匿名且笼统的浏览信息**以优化网站服务和监测网站的运行状况，站长**绝对不会将任何用户的信息用于商业用途**。若您对此有顾虑，可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Support@foresite.top]%20请填写主题) 向站长咨询进一步的信息。
 
 若该网站遭受到非法攻击，站长将**依法追究攻击者的法律责任**。
