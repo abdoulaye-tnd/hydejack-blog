@@ -46,7 +46,7 @@ title: 如何在静态网站上优雅地安装站内搜索引擎
 
 1. 找到一个将会在 `body` 末端注入文件内容的文件（在我的网站中，这个文件叫 `my-body.html` ，而且只有这文件），插入搜索框和脚本的代码：
 
-```HTML
+```html
 <input ... />
 <script>
     ...
@@ -61,7 +61,7 @@ title: 如何在静态网站上优雅地安装站内搜索引擎
 
 2. 找到一个存放自定义外观样式代码的文件（在我的网站中，这个文件叫 `my-style.scss` ，而且**也是**只有这文件），通过定义 `position` 为 `absolute` 的方式来将搜索框“放到”它应该出现的地方：
 
-```SCSS
+```css
 input#searchBox {
     position: absolute;
     right: 20pt;
@@ -77,7 +77,7 @@ input#searchBox {
 
 2. 通过上一步获得代码后，对代码进行修改。在这个网站上，我只修改了圆角属性（而且**比较坑的是**，圆角属性用 CSS 修改的话会被覆写）：
 
-```HTML
+```html
 <script>
     var ss360Config = {
         style: {
@@ -93,7 +93,7 @@ input#searchBox {
 
 3. 此外，我们当然可以用 CSS 定义外观（这里又有个**可能存在的坑**，就是 CDN 的一些操作可能会导致样式失效；例如下方演示的去除外框，必须要这样写才生效）：
 
-```SCSS
+```css
 input:focus {
     outline: none;
 }
