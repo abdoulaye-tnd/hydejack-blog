@@ -78,12 +78,12 @@ paginate_path: /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-4.jpg
-accent_color: "#0080E0"
+accent_color: "#0078D7"
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color: "#3D4B50"
+theme_color: "#3D8FFF"
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
