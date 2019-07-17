@@ -36,9 +36,11 @@ h6,
 }
 
 div#ss360-search-trigger {
+    position: absolute;
+    right: 0;
     background: none;
     border: none;
-    margin: 1.25rem 0.875rem;
+    margin: 1.25rem 0rem;
     color: var(--menu-text) !important;
     cursor: pointer;
 }
