@@ -35,9 +35,8 @@ h6,
     font-weight: bold;
 }
 
-textarea:focus,
 input:focus {
-    outline: 0;
+    outline: none;
 }
 
 .form-control:focus {
