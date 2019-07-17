@@ -35,6 +35,10 @@ h6,
     font-weight: bold;
 }
 
+input:focus {
+    outline: none;
+}
+
 input#searchBox {
     position: fixed;
     right: 20pt;
