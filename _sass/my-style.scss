@@ -34,3 +34,9 @@ h6,
 .heading {
     font-weight: bold;
 }
+
+input#searchBox {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}

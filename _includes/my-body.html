@@ -1,3 +1,78 @@
 {% comment %}<!--
 Use this add elements to the <body/> of the document.
 -->{% endcomment %}
+
+<input id="searchBox" type="text" placeholder="搜索文章……" />
+
+<script>
+    var ss360Config = {
+        style: {
+            themeColor: "#0080E0",
+            suggestions: {
+                text: {
+                    color: "#333333"
+                },
+                background: {
+                    color: "#ffffff"
+                },
+                padding: "5px",
+                distanceFromTop: "0px",
+                border: {
+                    color: "#dddddd",
+                    radius: "0px"
+                }
+            },
+            searchBox: {
+                text: {
+                    color: "#333333",
+                    size: "14px"
+                },
+                background: {
+                    color: "#ffffff"
+                },
+                border: {
+                    color: "#dddddd",
+                    radius: "0px"
+                },
+                padding: "10px",
+                icon: {
+                    image: "magnifier",
+                    color: "#666666"
+                }
+            },
+            loaderType: "circle"
+        },
+        tracking: {
+            providers: []
+        },
+        layout: {
+            mobile: {
+                showUrl: true
+            },
+            desktop: {
+                showUrl: true
+            },
+            navigation: {
+                position: "top"
+            }
+        },
+        dataPoints: {
+            exclude: [],
+            single: []
+        },
+        siteId: "foresite.top",
+        results: {
+            moreResultsButton: null
+        },
+        showErrors: false
+    };
+</script>
+<script
+    type="module"
+    src="https://cdn.sitesearch360.com/sitesearch360-v12.mjs"
+></script>
+<script
+    nomodule
+    src="https://cdn.sitesearch360.com/sitesearch360-v12.min.js"
+    async
+></script>
