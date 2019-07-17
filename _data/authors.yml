@@ -9,7 +9,7 @@ author1:
     # Used at the bottom of each page and at the top of the `about` layout
     # Markdown enabled, can use multiple paragraphs (enabled by `|`)
     about: |
-        人生如梦，一尊还酹江月。
+        这个站长很懒，还没想好要写什么。
 
     # This photo will be used in the about section.
     picture:
@@ -26,7 +26,7 @@ author1:
         github: https://github.com/h0gan1ee/hydejack-blog
         # download:        <url>
         email: mailto:hoganlee_dev@outlook.com
-        # rss:             https://<url>/feed.xml
+        rss: https://foresite.top/feed.xml
         # facebook:        <username>
         # google:          <number>
         # vk:              <username>
