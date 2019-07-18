@@ -57,9 +57,9 @@ menu:
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
-#   - title:             Impress
-#     url:               /impress/
+legal:
+    - title: 中国博客联盟
+      url: https://zgboke.org
 #   - title:             Cookies Policy
 #     url:               /cookies-policy/
 
