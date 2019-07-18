@@ -145,10 +145,10 @@ hydejack:
     no_google_fonts: false
 
     # Set to `true` if you don't want to show an icon indicating external links
-    no_mark_external: true
+    no_mark_external: false
 
     # Set to `true` if third party plugins fail to work with dynamically loaded pages
-    no_push_state: false
+    no_push_state: true
 
     # Set to `true` if you want to disable the drawer
     no_drawer: false
@@ -158,11 +158,11 @@ hydejack:
 
     # Set to `true` if you do not want parts of the css inlined in <head/>
     # This will increase site build speed dramatically!
-    no_inline_css: false
+    no_inline_css: true
 
     # Set to `true` if you don't intend on changing the accent color on a per-page basis.
     # This will increase site build speed!
-    no_page_style: false
+    no_page_style: true
 
     # Code blocks and tables "break" the layout by spanning the full available width.
     # Set this to true if you want them to be the same width as other content.
