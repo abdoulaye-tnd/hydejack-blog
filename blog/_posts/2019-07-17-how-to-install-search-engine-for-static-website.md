@@ -46,18 +46,18 @@ title: 如何在静态网站上优雅地安装站内搜索引擎
 
 1. 找到一个将会在 `body` 末端注入文件内容的文件（在我的网站中，这个文件叫 `my-body.html` ，而且只有这文件），插入搜索框和脚本的代码：
 
-```html
-<input ... />
-<script>
-    ...
-</script>
-<script>
-    ...
-</script>
-<script>
-    ...
-</script>
-```
+    ```html
+    <input ... />
+    <script>
+        ...
+    </script>
+    <script>
+        ...
+    </script>
+    <script>
+        ...
+    </script>
+    ```
 
 2. 找到一个存放自定义外观样式代码的文件（在我的网站中，这个文件叫 `my-style.scss` ，而且**也是**只有这文件），通过定义 `position` 为 `absolute` 的方式来将搜索框“放到”它应该出现的地方：
 
