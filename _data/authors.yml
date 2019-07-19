@@ -26,7 +26,7 @@ author1:
         github: https://github.com/h0gan1ee/hydejack-blog
         # download:        <url>
         email: mailto:hoganlee_dev@outlook.com
-        rss: https://foresite.top/feed.xml
+        rss: /feed.xml
         # facebook:        <username>
         # google:          <number>
         # vk:              <username>

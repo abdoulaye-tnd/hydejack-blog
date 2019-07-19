@@ -55,13 +55,13 @@ menu:
     - title: 关于
       url: /about/
     - title: 网站不错，捐赠一下
-      url: https://qr.alipay.com/00c07557egznuookcgkzo18
+      url: /about/#捐赠
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
     - title: 捐赠
-      url: https://qr.alipay.com/00c07557egznuookcgkzo18
+      url: /about/#捐赠
     - title: 中国博客联盟
       url: https://zgboke.org
 

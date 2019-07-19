@@ -95,3 +95,27 @@ image: /assets/img/foresite.png
 - Freenom：全球首个以及几乎唯一一个**免费域名**注册商，以对中国用户不友好~~和薛定谔的域名所有权~~和著称。但谁知道我怎么就成功注册了一个免费的域名，在此感谢该注册商的“**不封域名**”之恩。~~但是我还是不敢继续用了……~~
 
 - Gitee：开源中国推出的**免费**代码托管服务提供商，因为该公司的服务器机房~~恰好在我家附近~~在中国，因此我就选择了它来托管该网站的各种资源。访问速度自然不用说，比上面的各种提供商都要快，“免费加速服务”首选。~~（我不知道我有没有滥用……）~~
+
+# 捐赠
+
+感谢您浏览本站，希望您可以帮助站长更好地建设网站！
+
+- 电脑端访问：
+
+  - 支付宝：请使用手机支付宝扫描下方二维码
+
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_alipay.png)
+
+  - 微信：请使用微信扫描下方小程序码
+
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat.png)
+
+- 手机端访问：
+
+  - 支付宝：请点击 [这个链接（https://qr.alipay.com/00c07557egznuookcgkzo18）](https://qr.alipay.com/00c07557egznuookcgkzo18) 进行捐赠
+
+  - 微信：请将下方小程序码保存到手机上（长按后点击下载），然后打开微信“扫一扫”，选择“从相册中选取二维码”，最后选取这个图片
+
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat_min.png)
+
+非常感激您对本站的支持，谢谢！
