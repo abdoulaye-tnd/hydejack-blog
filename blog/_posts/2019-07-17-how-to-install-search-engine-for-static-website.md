@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何在静态网站上优雅地安装站内搜索引擎
+comments: true
 ---
 
 * toc

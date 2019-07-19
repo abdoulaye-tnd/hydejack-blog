@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 【持续更新】The Party Troll 自制乐谱
+comments: true
 ---
 
 目前还没有完成，然后因为 `iframe` 的加载阻塞问题所以这个页面只好空着了。完成的之后会在这里同步发布乐谱，敬请期待。

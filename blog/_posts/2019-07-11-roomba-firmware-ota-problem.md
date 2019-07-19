@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 关于某一批次的 iRobot Roomba 600/800 系列的固件更新问题
+comments: true
 ---
 
 最近入手了一台国行 iRobot Roomba 691 ，不幸的是折腾了半天试过了网上的所有方法都无法更新固件。最终在[官网](https://homesupport.irobot.com/app/answers/detail/a_id/541/kw/roomba%20600%20firmware%20note)找到一句**轻描淡写**的更新日志：
