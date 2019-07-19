@@ -70,7 +70,7 @@ image: /assets/img/foresite.png
 
 **该网站受《国际法》、《中华人民共和国宪法》、中华人民共和国境内适用的法律和法规约束。**站长将严格遵循上述宪法、法律和法规进行网络活动，并坚决与违法、违宪行为作斗争。
 
-该网站不会主动收集用户的隐私信息，但是与该网站的相关服务提供商和用户的网络接入服务提供商可能会收集用户的网站浏览信息。站长仅可以通过 CDN 加速提供商 [Cloudflare](https://cloudflare.com) 和静态网站托管提供商 [Netlify](https://netlify.com) 获取用户**匿名且笼统的浏览信息**以优化网站服务和监测网站的运行状况，站长**绝对不会将任何用户的信息用于商业用途**。若您对此有顾虑，可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Support@foresite.top]%20请填写主题) 向站长咨询进一步的信息。
+该网站不会主动收集用户的隐私信息，但是与该网站的相关服务提供商和用户的网络接入服务提供商可能会收集用户的网站浏览信息。站长可以通过 CDN 加速提供商 [Cloudflare](https://cloudflare.com)、广告投放服务提供商 [Google AdSense](https://www.google.com/adsense) 和静态网站托管提供商 [Netlify](https://netlify.com) 获取用户**匿名且笼统的浏览信息**以优化网站服务和监测网站的运行状况。若您对此有顾虑，可以通过 [电子邮件 (hoganlee_dev@outlook.com)](mailto:hoganlee_dev@outlook.com?subject=[Support@foresite.top]%20请填写主题) 向站长咨询进一步的信息。
 
 同时，该网站可能会引入其他网站的内容（例如 [MuseScore](https://musescore.com) 、[Site Search 360°](https://www.sitesearch360.com) ），这些网站可能会收集你的浏览信息，比如使用 Cookies 技术。这些信息收集行为并不在该网站的控制范围内，您可能需要阅读对应网站的条款来了解它们是如何收集并使用信息的。
 
