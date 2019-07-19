@@ -1,3 +1,4 @@
+--- # ---------------------------------------------------------------------------------------
 # Strings
 # =======================================================================================
 # This file contains all soft-coded strings of the theme.
@@ -9,133 +10,131 @@
 # especially for languages that differ significantly from English.
 
 # Free version
-# ---------------------------------------------------------------------------------------
-home:                  首页
-pages:                 页面
-posts:                 文章
-about:                 签名档
-related_posts:         更多文章
-other_projects:        其他项目
-comments:              众说纷纭
-jump_to:               转跳到
-navigation:            导航页
-social:                社交账号
-links:                 链接
-pagination:            分页
-newer:                 更新的
-older:                 更旧的
-back:                  返回
-permalink:             永久链接
-permalink_icon:        图标链接
-templates:             模板 (for web app)
-present:               present
+home: 首页
+pages: 页面
+posts: 文章
+about: 签名档
+related_posts: 更多文章
+other_projects: 其他项目
+comments: 众说纷纭（该功能并不适用于所有地区）
+jump_to: 转跳到
+navigation: 导航页
+social: 社交账号
+links: 链接
+pagination: 分页
+newer: 更新的
+older: 更旧的
+back: 返回
+permalink: 永久链接
+permalink_icon: 图标链接
+templates: 模板 (for web app)
+present: present
 
-loading:               快步加载中…
-redirecting:           小步转跳中…
+loading: 快步加载中…
+redirecting: 小步转跳中…
 
-continue_reading:      >
-  继续阅读 <!--post_title-->
+continue_reading: >
+    继续阅读 <!--post_title-->
 
 cookies_banner:
-  text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
-  okay:                好的
+    text: >
+        This site uses cookies. [Cookies Policy](/cookies-policy/).
+    okay: 好的
 
 not_found:
-  title:               '404: 网页不见了'
-  message:             |
-    对不起，我们不能解析此 URL ，或许它指向了一个不存在的网页。
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> 尝试重新查找网页。
-  home_link:           回到首页
+    title: "404: 网页不见了"
+    message: |
+        对不起，我们不能解析此 URL ，或许它指向了一个不存在的网页。
+        Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+        <!--home_link--> 尝试重新查找网页。
+    home_link: 回到首页
 
 error:
-  title:               错误
-  message:             |
-    对不起, 加载 <!--link--> 时出了偏差。
+    title: 错误
+    message: |
+        对不起, 加载 <!--link--> 时出了偏差。
 
 # Separators
 # ---------------------------------------------------------------------------------------
-colon:                 ':'
-separator:             '|'
-category_start:        'in '
-category_spearator:    ' / '
-tag_start:             'on '
-tag_separator:         ', '
-from_to_separator:     '–'
+colon: ":"
+separator: "|"
+category_start: "in "
+category_spearator: " / "
+tag_start: "on "
+tag_separator: ", "
+from_to_separator: "–"
 
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y-%m-%d'
-  related_post:        '%Y-%m-%d'
-  list_group_by:       '%Y'
-  list_entry:          '%m 月 %d 日'
-  project:             '%Y'
-  projects_group_by:   '%Y'
-  resume:              '%Y 年 %m 月'
-
+    post: "%Y-%m-%d"
+    related_post: "%Y-%m-%d"
+    list_group_by: "%Y"
+    list_entry: "%m 月 %d 日"
+    project: "%Y"
+    projects_group_by: "%Y"
+    resume: "%Y 年 %m 月"
 
 # PRO Version
 # ---------------------------------------------------------------------------------------
 # If you don't own the PRO version of Hydejack, modifying these will have no effect.
 
 tinyletter:
-  title:               Commercial break
-  label:               Email
-  placeholder:         Enter your email address
-  button:              Subscribe
-  message:             |
-    Pay the *iron price* for this theme by adding yourself to the mailing list.
-    Receive development updates, advanced tutorials,
-    and anything else I can come up with as it relates to **Hydejack**.
+    title: Commercial break
+    label: Email
+    placeholder: Enter your email address
+    button: Subscribe
+    message: |
+        Pay the *iron price* for this theme by adding yourself to the mailing list.
+        Receive development updates, advanced tutorials,
+        and anything else I can come up with as it relates to **Hydejack**.
 
-    <!--form-->
+        <!--form-->
 
-    No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
-    {:.faded}
+        No 3rd party products, no spam. Emails handled by [Tinyletter](https://tinyletter.com/)
+        {:.faded}
 
 welcome:
-  more_projects:       See <!--projects_title--> for more
-  more_posts:          See <!--posts_title--> for more
+    more_projects: See <!--projects_title--> for more
+    more_posts: See <!--posts_title--> for more
 
 resume:
-  location:            Location
-  location_separator:  ', '
-  email:               Email
-  phone:               Phone
-  website:             Website
-  work:                Experience
-  work_title:          <!--position--> at <!--company-->
-  highlights:          Highlights
-  volunteer:           Volunteer
-  volunteer_title:     <!--position--> at <!--organization-->
-  education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
-  courses:             Courses
-  awards:              Awards
-  awards_title:        <!--title--> from <!--awarder-->
-  publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
-  references:          References
-  languages:           Languages
-  fluency:             Fluency
-  skills:              Skills
-  level:               Level
-  interests:           Interests
-  keywords:            Keywords
-  icons:
-    fallback:          icon-link
-    location:          icon-location
-    email:             icon-mail2
-    phone:             icon-phone
-    website:           icon-home3
-    work:              icon-briefcase
-    volunteer:         icon-earth
-    education:         icon-library
-    awards:            icon-trophy
-    publications:      icon-book
-    references:        icon-quotes-right
-    languages:         icon-bubbles
-    skills:            icon-wrench
-    interests:         icon-heart
+    location: Location
+    location_separator: ", "
+    email: Email
+    phone: Phone
+    website: Website
+    work: Experience
+    work_title: <!--position--> at <!--company-->
+    highlights: Highlights
+    volunteer: Volunteer
+    volunteer_title: <!--position--> at <!--organization-->
+    education: Education
+    education_title: <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+    courses: Courses
+    awards: Awards
+    awards_title: <!--title--> from <!--awarder-->
+    publications: Publications
+    publications_title: <!--name--> by <!--publisher-->
+    references: References
+    languages: Languages
+    fluency: Fluency
+    skills: Skills
+    level: Level
+    interests: Interests
+    keywords: Keywords
+    icons:
+        fallback: icon-link
+        location: icon-location
+        email: icon-mail2
+        phone: icon-phone
+        website: icon-home3
+        work: icon-briefcase
+        volunteer: icon-earth
+        education: icon-library
+        awards: icon-trophy
+        publications: icon-book
+        references: icon-quotes-right
+        languages: icon-bubbles
+        skills: icon-wrench
+        interests: icon-heart
