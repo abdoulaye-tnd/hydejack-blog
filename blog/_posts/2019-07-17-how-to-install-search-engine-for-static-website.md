@@ -7,7 +7,7 @@ comments: true
 * toc
 {:toc}
 
-# 前言
+## 前言
 
 如果你碰巧有在静态网站上安装搜索引擎的需求，并且不打算使用付费服务，也不想折腾；那么，这篇文章**正是你所需要的**。
 
@@ -15,7 +15,7 @@ comments: true
 
 我写这篇文章的原因，是因为我为这个问题已经苦恼了很久，并且尝试过许多博客所用的方法。但是由于这个网站使用的 Jekyll 改版主题并不支持大多数方法，再加上该网站托管在 Netlify 的特殊性，这些方法往往都不能完美地解决该网站对于搜索的需求。
 
-# Trial and error and error and error...
+## Trial and error and error and error...
 
 为了解决这个问题，我尝试过以下的方案，并且都因为各种原因失败了：
 
@@ -27,11 +27,11 @@ comments: true
 
 这些方案前前后后断续地浪费了我**将近两个星期**的时间，我用尽了网络上所有文章所说的方法，**没有一个奏效**。
 
-# 安装过程
+## 安装过程
 
 最后，我采用了 [Site Search 360°](https://www.sitesearch360.com) 的**免费**站内搜索订阅产品，完美地在这个网站上安装了搜索引擎。
 
-## 准备工作
+### 准备工作
 
 1. 在 [Site Search 360° (https://www.sitesearch360.com)](https://www.sitesearch360.com) 上 [注册](https://control.sitesearch360.com/signup) 一个账号，添加你的网站。
 
@@ -41,7 +41,7 @@ comments: true
 
 3. [检查抓取的数据](https://control.sitesearch360.com/#section=indexControl) 无误后，即完成了准备工作。
 
-## 部署代码
+### 部署代码
 
 一般来说，只要在“你希望搜索框出现的位置”放置 [Site Search 360° 设计页面](https://www.sitesearch360.com/search-designer) 生成的代码即可。但是，由于受该 Jekyll 主题的限制，我**无法**随心所欲地放置这些代码。因此，我是这样解决的：
 
@@ -70,7 +70,7 @@ input#searchBox {
 }
 ```
 
-## 美化
+### 美化
 
 如果不是为了美化搜索框的话，我可能会直接用 Cloudflare 应用来部署了。但是，Cloudflare 注入的东西都差强人意，而且自定义样式后会有各种各样的小问题。正因为如此，我才会选择这篇文章所说的方案。废话不多说，看看有什么地方是可以美化的：
 
@@ -106,7 +106,7 @@ input:focus {
 }
 ```
 
-# 结语
+## 结语
 
 我自认为这个方法是**最简单、最完美且适用性最好的**，希望我的文章可以帮助到你！
 
