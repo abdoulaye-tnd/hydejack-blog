@@ -37,7 +37,7 @@ comments: true
 
 2. 在 [控制台](https://control.sitesearch360.com) 上进行一些必要的配置，例如 Sitemap 抓取配置、标题抓取配置等。其中需要注意的是，默认是不采用 Sitemap 抓取的，并且默认的标题抓取规则是抓取 `h1` 并非 `title` 标签，这些**都是坑**。
 
-![](https://gitee.com/h00kran/blog-assets/raw/master/img/title_xpath_screenshot.png){:.lead}
+![](https://gitee.com/h00kran/blog-assets/raw/master/img/title_xpath_screenshot.png?sw-cache){:.lead}
 
 3. [检查抓取的数据](https://control.sitesearch360.com/#section=indexControl) 无误后，即完成了准备工作。
 

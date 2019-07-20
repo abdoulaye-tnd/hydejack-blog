@@ -37,7 +37,7 @@ keywords: [个人, 综合, 技术, 艺术, 杂谈]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: https://gitee.com/h00kran/blog-assets/raw/master/icons/icon.webp
+logo: https://gitee.com/h00kran/blog-assets/raw/master/icons/icon.webp?sw-cache
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -79,7 +79,7 @@ paginate_path: /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-4.webp
+accent_image: https://gitee.com/h00kran/blog-assets/raw/master/img/bg-4.webp?sw-cache
 accent_color: "#3D8FFF"
 
 # This is used for the `theme-color` meta tag,
