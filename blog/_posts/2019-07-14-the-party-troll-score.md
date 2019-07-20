@@ -8,6 +8,10 @@ comments: true
 
 ___
 
+<div id="i-container" />
+
+<span><a href="https://musescore.com/user/27361912/scores/5642671">"The Party Troll"</a> by <a href="https://musescore.com/user/27361912">Hogan Lee</a></span>
+
 <script>
 function createIframe(){
   var i = document.createElement("iframe");
@@ -18,7 +22,7 @@ function createIframe(){
   i.height = "394";
   i.allowfullscreen = true;
   i.allow="autoplay; fullscreen";
-  document.getElementById("div-that-holds-the-iframe").appendChild(i);
+  document.getElementById("i-container").appendChild(i);
 };
 
 if (window.addEventListener)
@@ -27,5 +31,3 @@ else if (window.attachEvent)
 window.attachEvent("onload", createIframe);
 else window.onload = createIframe;
 </script>
-
-<span><a href="https://musescore.com/user/27361912/scores/5642671">"The Party Troll"</a> by <a href="https://musescore.com/user/27361912">Hogan Lee</a></span>
