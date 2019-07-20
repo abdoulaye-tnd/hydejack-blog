@@ -15,7 +15,7 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/foresite.png
+image: /assets/img/foresite.webp
 ---
 
 ## 目录
@@ -25,7 +25,7 @@ image: /assets/img/foresite.png
 
 ## 简介
 
-![](https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.png){:.lead}
+![](https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp){:.lead}
 
 欢迎您访问这个网站！
 {:.lead}
@@ -104,11 +104,11 @@ image: /assets/img/foresite.png
 
   - 支付宝：请使用手机支付宝扫描下方二维码
 
-  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_alipay.jpg)
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_alipay.webp)
 
   - 微信：请使用微信扫描下方小程序码
 
-  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat.jpg)
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat.webp)
 
 - 手机端访问：
 
