@@ -17,7 +17,7 @@ function createIframe(){
   i.width = "100%";
   i.height = "394";
   i.allowfullscreen = true;
-  i.allow="autoplay; fullscreen"
+  i.allow="autoplay; fullscreen";
   document.getElementById("div-that-holds-the-iframe").appendChild(i);
 };
 
