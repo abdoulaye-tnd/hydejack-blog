@@ -8,4 +8,24 @@ comments: true
 
 ___
 
-<iframe width="100%" height="394" src="https://musescore.com/user/27361912/scores/5642671/embed" frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/27361912/scores/5642671">"The Party Troll"</a> by <a href="https://musescore.com/user/27361912">Hogan Lee</a></span>
+<script>
+function createIframe(){
+  var i = document.createElement("iframe");
+  i.src = "https://musescore.com/user/27361912/scores/5642671/embed";
+  i.scrolling = "auto";
+  i.frameborder = "0";
+  i.width = "100%";
+  i.height = "394";
+  i.allowfullscreen = true;
+  i.allow="autoplay; fullscreen"
+  document.getElementById("div-that-holds-the-iframe").appendChild(i);
+};
+
+if (window.addEventListener)
+window.addEventListener("load", createIframe, false);
+else if (window.attachEvent)
+window.attachEvent("onload", createIframe);
+else window.onload = createIframe;
+</script>
+
+<span><a href="https://musescore.com/user/27361912/scores/5642671">"The Party Troll"</a> by <a href="https://musescore.com/user/27361912">Hogan Lee</a></span>
