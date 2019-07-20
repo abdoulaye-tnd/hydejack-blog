@@ -64,6 +64,8 @@ legal:
       url: /about/#捐赠
     - title: 中国博客联盟
       url: https://zgboke.org
+    - title: Sitemap
+      url: /sitemap.xml
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: © Hogan Lee 2019. All rights reserved.
