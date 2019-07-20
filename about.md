@@ -15,7 +15,7 @@ description: >
 hide_description: true
 
 # TODO
-image: https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp?sw-cache
+image: https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp
 ---
 
 ## 目录
@@ -25,7 +25,7 @@ image: https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp?sw-cac
 
 ## 简介
 
-![](https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp?sw-cache){:.lead}
+![](https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp){:.lead}
 
 欢迎您访问这个网站！
 {:.lead}
@@ -104,11 +104,11 @@ image: https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp?sw-cac
 
   - 支付宝：请使用手机支付宝扫描下方二维码
 
-  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_alipay.webp?sw-cache)
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_alipay.webp)
 
   - 微信：请使用微信扫描下方小程序码
 
-  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat.webp?sw-cache)
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat.webp)
 
 - 手机端访问：
 
@@ -116,6 +116,6 @@ image: https://gitee.com/h00kran/blog-assets/raw/master/img/foresite.webp?sw-cac
 
   - 微信：请将下方小程序码保存到手机上（长按后点击下载），然后打开微信“扫一扫”，选择“从相册中选取二维码”，最后选取这个图片
 
-  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat_min.jpg?sw-cache)
+  ![](https://gitee.com/h00kran/blog-assets/raw/master/img/donate_wechat_min.jpg)
 
 非常感激您对本站的支持，谢谢！
