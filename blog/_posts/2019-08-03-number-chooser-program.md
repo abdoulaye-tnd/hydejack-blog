@@ -4,8 +4,6 @@ title: 【小工具】用于不重复随机抽取号码的程序
 comments: true
 ---
 
-## 目录
-
 * toc
 {:toc}
 
