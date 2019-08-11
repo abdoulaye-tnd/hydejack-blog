@@ -16,7 +16,9 @@
 }*/
 
 body {
-    font-family: Arial, Helvetica, 微软雅黑, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, PingFang SC,
+        Microsoft YaHei, Source Han Sans SC, Noto Sans CJK SC,
+        WenQuanYi Micro Hei, sans-serif;
 }
 
 h1,
@@ -37,7 +39,9 @@ h6,
 
 code,
 pre {
-    font-family: Menlo, Monaco, Consolas, Courier New, monospace, sans-serif;
+    font-family: Menlo, Monaco, Consolas, Courier New, monospace, -apple-system,
+        BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei,
+        Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
 }
 
 input:focus {

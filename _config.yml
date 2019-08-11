@@ -97,11 +97,15 @@ google_fonts: Noto+Serif+SC:500,700|Playfair+Display:700|Roboto+Slab:400,700&dis
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font: Roboto Slab, Noto Serif SC, 等线, 微软雅黑, Helvetica, Arial, sans-serif
+font: Roboto Slab, Noto Serif SC, -apple-system,
+    BlinkMacSystemFont, Helvetica Neue, PingFang SC, 等线, Microsoft YaHei,
+    Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading: Playfair Display, Noto Serif SC, 等线, 微软雅黑, Helvetica, Arial, sans-serif
+font_heading: Playfair Display, Noto Serif SC, -apple-system,
+    BlinkMacSystemFont, Helvetica Neue, PingFang SC, 等线, Microsoft YaHei,
+    Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif
 
 defaults:
     # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
