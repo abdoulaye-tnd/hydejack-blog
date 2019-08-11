@@ -39,9 +39,9 @@ h6,
 
 code,
 pre {
-    font-family: Menlo, Monaco, Consolas, Courier New, monospace, -apple-system,
+    font-family: Menlo, Monaco, Consolas, Courier New, -apple-system,
         BlinkMacSystemFont, Helvetica Neue, PingFang SC, Microsoft YaHei,
-        Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, sans-serif;
+        Source Han Sans SC, Noto Sans CJK SC, WenQuanYi Micro Hei, monospace;
 }
 
 input:focus {
