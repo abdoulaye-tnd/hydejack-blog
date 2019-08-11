@@ -20,4 +20,4 @@ comments: true
 
 4. 确保显卡驱动已经更新到了最新版本，并且确保显卡驱动是从 [戴尔官网](https://www.dell.com/support/home/) 下载安装的，而不是从英特尔或英伟达等制造商的网站下载的。如果你不确定，那么可以从戴尔官网上下载最新的显卡驱动，然后执行“清洁安装”。
 
-5. 从 Microsoft Store（或点击 [此链接](https://www.microsoft.com/store/productId/9N9PJGJG009K) ）上搜索并安装 Dell Premier Color ，打开软件并进行简单的配置后即可正常使用。
+5. 从 Microsoft Store（或点击 [此链接](https://www.microsoft.com/store/productId/9N9PJGJG009K) ）上搜索并安装 Dell PremierColor ，打开软件并进行简单的配置后即可正常使用。
