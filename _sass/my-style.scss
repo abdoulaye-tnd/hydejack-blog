@@ -35,6 +35,11 @@ h6,
     font-weight: bold;
 }
 
+code,
+pre {
+    font-family: Menlo, Monaco, Consolas, Courier New, monospace, sans-serif;
+}
+
 input:focus {
     outline: none;
 }
