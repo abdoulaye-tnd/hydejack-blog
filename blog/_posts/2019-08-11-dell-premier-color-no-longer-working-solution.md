@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 解决 Windows 10 更新后 Dell PremierColor 不生效的问题
 comments: true
 ---
+
+# 解决 Windows 10 更新后 Dell PremierColor 不生效的问题
 
 ## 问题描述
 
