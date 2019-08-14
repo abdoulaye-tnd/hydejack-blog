@@ -11,7 +11,9 @@ comments: true
 
 点击下方链接即可下载
 
-[https://gitee.com/h00kran/blog-assets/raw/master/programs/ChooseANumber.exe](https://gitee.com/h00kran/blog-assets/raw/master/programs/ChooseANumber.exe)
+（推荐）蓝奏云下载：[https://www.lanzous.com/i5kfhuh](https://www.lanzous.com/i5kfhuh)
+
+码云下载：[https://gitee.com/h00kran/blog-assets/raw/master/programs/ChooseANumber.exe](https://gitee.com/h00kran/blog-assets/raw/master/programs/ChooseANumber.exe)
 
 ## 简介
 
